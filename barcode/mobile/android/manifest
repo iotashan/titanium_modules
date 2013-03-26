@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 2.3.4
+version: 2.3.5
 apiversion: 2
 description: Lets you process 1D/2D barcodes.
 author: Stephen Tramer & Jeff English
